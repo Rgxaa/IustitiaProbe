@@ -1,0 +1,8 @@
+.gradle/
+build/
+.kotlin/
+run/
+.idea/
+*.iml
+.vscode/
+.DS_Store

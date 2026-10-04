@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dev.iustitia.probe.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EntityTrackerManagerMixin",
+    "LivingEntitySwingBroadcastMixin",
+    "ServerWorldDigMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
